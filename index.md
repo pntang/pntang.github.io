@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## (｡･∀･)ﾉﾞ嗨，欢迎回来
 
-You can use the [editor on GitHub](https://github.com/pntang/pntang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这个博客还在建设中……至于什么时候建完……看博主心情呗~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+不闹了，很快的（滑稽）
+
+算了算了，你就等着吧
 
 ### Markdown
 
