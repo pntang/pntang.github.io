@@ -1,6 +1,6 @@
 ## (｡･∀･)ﾉﾞ嗨，欢迎回来
 
-Hi~ o(*￣▽￣*)ブ这里是Sprinkle的个人博客
+这里是Sprinkle的个人博客( ﾟ∀。)
 
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
