@@ -2,7 +2,7 @@
 
 Hi~ o(*￣▽￣*)ブ这里是Sprinkle的个人博客
 
-[☕](https://www.buymeacoffee.com/sprinkle)
+Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 ### Simple os
 一款足够简洁优秀的个人操作系统（powerpoint os），预计8月完成
