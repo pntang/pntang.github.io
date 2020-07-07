@@ -19,6 +19,10 @@ Hi~ o(*￣▽￣*)ブ这里是Sprinkle的个人博客
 
 所以说，源码我会放到GitHub里面分享
 
+效果：
+
+[![UF0shQ.jpg](https://s1.ax1x.com/2020/07/07/UF0shQ.jpg)](https://imgchr.com/i/UF0shQ)
+
 ### python实现营销号生成器
 纯属娱乐
 
