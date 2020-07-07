@@ -2,6 +2,8 @@
 
 这里是Sprinkle的个人博客( ﾟ∀。)
 
+Email:sprinkleponcho@dingtalk.com
+
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 ### Simple os
