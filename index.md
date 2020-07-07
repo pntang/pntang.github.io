@@ -9,6 +9,6 @@ Hi~ o(*￣▽￣*)ブ这里是Sprinkle的个人博客
 
 简洁高效，支持云端ps编辑，office，邮箱，甚至代码编辑
 
-#系统截图
+# 系统截图
 
 ![UFYXFA.jpg](https://s1.ax1x.com/2020/07/07/UFYXFA.jpg)
