@@ -15,6 +15,8 @@ Hi~ o(*￣▽￣*)ブ这里是Sprinkle的个人博客
 ### python做个扫雷小游戏
 先说一句：去下载pygame，因为pygame和python不是打包在一起的
 
+还有就是博客缩放有点问题，所以说源码很容易打乱……
+
 构建地雷区域：
 
 import random
