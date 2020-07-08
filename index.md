@@ -51,7 +51,7 @@ print(' '+’这就是关于’+a+b+’的事情了，来源于qq看点app，大
 
 input()
 
-# python贪吃蛇
+### python贪吃蛇
 
 还是，先去下pygame，导入python库
 
