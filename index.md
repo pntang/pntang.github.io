@@ -33,7 +33,7 @@ Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 源码：
 
-<python> <print('啊这，营销号生成器')
+print('啊这，营销号生成器')
                  
 a=input('请输入主体：')
                  
