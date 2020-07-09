@@ -6,7 +6,7 @@ Email:sprinkleponcho@dingtalk.com
 
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
-### search website?
+### search website?[🙃](https://sprinklelive.github.io)
 闲着没事，便做了一个搜索网站
 
 现在还不能搜索……的搜索网站
@@ -15,11 +15,11 @@ Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 ![UeQZgP.jpg](https://s1.ax1x.com/2020/07/09/UeQZgP.jpg)
 
-当然还有个小彩蛋，在sprinklelive后面输入dark，懂？
-
-当然还有一些别的有意思的东西，你自己探索吧(。﹏。)
+当然会有小彩蛋，在sprinklelive后面输入dark，懂？
 
 ![UeQKHg.jpg](https://s1.ax1x.com/2020/07/09/UeQKHg.jpg)
+
+当然还有一些别的有意思的东西，你自己探索吧( ﾟ∀。)
 
 ### Simple os
 一款足够简洁优秀的个人操作系统（powerpoint os），预计8月完成
