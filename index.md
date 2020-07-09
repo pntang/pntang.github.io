@@ -15,7 +15,7 @@ Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 ![UeQZgP.jpg](https://s1.ax1x.com/2020/07/09/UeQZgP.jpg)
 
-当然会有小彩蛋，在sprinklelive后面输入dark，懂？
+当然会有小彩蛋，在sprinklelive后面输入dark，懂？[🙃](https://sprinklelivedark.github.io)
 
 ![UeQKHg.jpg](https://s1.ax1x.com/2020/07/09/UeQKHg.jpg)
 
