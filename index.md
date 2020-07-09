@@ -6,8 +6,13 @@ Email:sprinkleponcho@dingtalk.com
 
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
+### html做一个贪吃蛇小游戏
+源码在GitHub仓库里面[🌐](https://sprinklesnake.github.io)
+
+![UmJO76.jpg](https://s1.ax1x.com/2020/07/09/UmJO76.jpg)
+
 ### search website?
-闲着没事，便做了一个搜索网站[🙃](https://sprinklelive.github.io)
+闲着没事，便做了一个搜索网站[🌐](https://sprinklelive.github.io)
 
 现在还不能搜索……的搜索网站
 
@@ -15,7 +20,7 @@ Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
 ![UeQZgP.jpg](https://s1.ax1x.com/2020/07/09/UeQZgP.jpg)
 
-当然会有小彩蛋，在sprinklelive后面输入dark，懂？[🙃](https://sprinklelivedark.github.io)
+当然会有小彩蛋，在sprinklelive后面输入dark，懂？[🌐](https://sprinklelivedark.github.io)
 
 ![UeQKHg.jpg](https://s1.ax1x.com/2020/07/09/UeQKHg.jpg)
 
