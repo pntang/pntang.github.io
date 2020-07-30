@@ -6,6 +6,15 @@ Email:sprinkleponcho@dingtalk.com
 
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
+### 爆肝网站
+欢迎回来，啊
+
+我没拖更，只不过之前GitHub账号没法验证，不知道咋回事，现在又回来了
+
+sprinkleos.github.io
+
+一个像极了win7的webos
+
 ### html做一个贪吃蛇小游戏
 源码在GitHub仓库里面[🌐](https://sprinklesnake.github.io)
 
