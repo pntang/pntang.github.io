@@ -6,6 +6,9 @@ Email:sprinkleponcho@dingtalk.com
 
 Buy me a coffee?[☕](https://www.buymeacoffee.com/sprinkle)
 
+### AserOS 官网页面
+[Enter](aseros.md)
+
 ### 爆肝网站
 欢迎回来，啊
 
