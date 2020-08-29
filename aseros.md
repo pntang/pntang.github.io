@@ -5,6 +5,8 @@ Download  the newest AserOS
 
 [AserOSvera](AserOSvera.py)
 
+[AserOSlavla](AserOSlavla.py)
+
 [AserOSultra](AserOSultra.py)
 
 [AserOScore](AserOScore.py)
