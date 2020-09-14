@@ -1,6 +1,9 @@
 # 便签
 | [首页](index.md) | [文章](article.md) | [便签](note.md) | [关于](about.md) |
 
+### 2020·9·14-Aser Technology
+[AserOS - 现已开源](https://github.com/pntang/AserOS)
+
 ### 2020·9·14-Sprinkle
 博客整修中……
 
