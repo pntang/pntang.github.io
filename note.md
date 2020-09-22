@@ -1,5 +1,7 @@
 # 便签
 | [首页](index.md) | [文章](article.md) | [便签](note.md) | [关于](about.md) |
+### 2020·9·22-Aser Technology
+[AserOS官网](https://sprinklelive.github.io)
 ### 2020·9·15-Sprinkle
 AserOS开源仓库封存
 
