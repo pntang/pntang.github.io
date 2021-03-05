@@ -3,7 +3,7 @@
 
 这里是Sprinkle的个人博客( ﾟ∀。)
 
-[🔗](egg1.md)[我的bilibili账号🔗](https://space.bilibili.com/504151731)
+[🌐](egg1.md)[我的bilibili主页🌐](https://space.bilibili.com/504151731)
 
 一切安好，你我无恙
 
