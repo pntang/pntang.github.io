@@ -3,10 +3,17 @@
 
 关于Sprinkle's blog:
 
-Email:sprinkleponcho@dingtalk.com
+Email:sprinkleponcho@dingtalk.com / sprinkleponcho@outlook.com
 
 bilibili:吾乃夜小雨
 
 Made by Sprinkle
 
-2020
+2021
+
+下面是一堆表情
+⬜🟥🟧🟨🟩🟦🟦🟪⬛
+
+⬜🟥🟧🟨[🟩](egg3.md)🟦🟦🟪⬛
+
+⬜🟥🟧🟨🟩🟦🟦🟪⬛
