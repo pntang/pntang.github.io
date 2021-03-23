@@ -1,5 +1,5 @@
 # 文章
-| [首页](index.md) | [视频](video.html) | [文章](article.md) | [便签](note.md) | [关于](about.md) |
+| [首页](home.md) | [视频](video.html) | [文章](article.md) | [便签](note.md) | [关于](about.md) |
 
 [自制80年代风格的电脑游戏，类rogue风格的地下城](a5.md)
 
