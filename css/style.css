@@ -1,0 +1,292 @@
+* { margin: 0; padding: 0; }
+body { overflow: hidden; font-size: 14px; font-family: "Microsoft Yahei"; }
+ul, li { list-style: none; }
+
+#desktop {
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: url(../images/bg.jpg) no-repeat;
+  background-size: cover;
+}
+/* 图标区 */
+#desktop .list {
+  position: absolute;
+  z-index: 1;
+  left: 22px;
+  top: 50%;
+/*  width: 100%;
+  height: 550px;*/
+  margin-top: -275px;
+}
+#desktop .list li {
+  position: absolute;
+  width: 100px;
+  height: 85px;
+  padding: 5px 0;
+  border-radius: 5px;
+  text-align: center;
+  cursor: default;
+}
+#desktop .list li:hover {
+  background: rgba(0,0,0,.1);
+}
+#desktop .list li.hover {
+  background: rgba(0,0,0,.2 );
+  box-shadow: 0 0 3px #000;
+}
+#desktop .list li a {
+  display: block;
+  cursor: default;
+}
+#desktop .list li img {
+  width: 60px;
+  height: 60px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, .8);
+  border-radius: 8px;
+}
+#desktop .list li span {
+  display: block;
+  line-height: 20px;
+  padding-top: 4px;
+  color: #fff;
+}
+/* 日期 */
+#desktop .date {
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  top: 0;
+  width: 180px;
+  height: 70px;
+  padding: 8px;
+  border-radius: 4px;
+}
+#desktop .date-hover {
+  cursor: move;
+  box-shadow: 0 0 6px rgba(0, 0, 0, .175);
+}
+#desktop .date-hide {
+  cursor: pointer;
+}
+#desktop .date .date-wrapper {
+  width: 180px;
+}
+#desktop .date .mask {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .2);
+  box-shadow: 0 0 6px rgba(0, 0, 0, .175);
+  border-radius: 4px;
+}
+#desktop .date .left {
+  position: relative;
+  z-index: 2;
+  float: left;
+  margin-top: 2px;
+  width: 64px;
+  height: 64px;
+  background: url(../images/calander.png) no-repeat;
+  background-size: cover;
+}
+#desktop .date .right {
+  position: relative;
+  z-index: 2;
+  float: right;
+}
+#desktop .date .right p {
+  line-height: 23px;
+  color: #eee;
+}
+#desktop .date .right .time {}
+#desktop .date .right .day {}
+#desktop .date .right .week {}
+#desktop .date .close {
+  display: none;
+  position: absolute;
+  z-index: 2;
+  right: -8px;
+  top: -10px;
+  width: 24px;
+  height: 24px;
+  background: url(../images/close.png) no-repeat;
+  background-size: cover;
+}
+#desktop .date-hover .close {
+  display: block;
+  cursor: default;
+}
+/* About me */
+#desktop .about {
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  bottom: -200px;
+  width: 300px;
+  height: 200px;
+}
+#desktop .about ul {
+  position: relative;
+  z-index: 1;
+  padding: 10px;
+}
+#desktop .about ul li {
+  position: relative;
+  top: 20px;
+  height: 20px;
+  padding: 10px 0;
+  border-bottom: 1px dotted rgba(0, 0, 0, .8);
+  opacity: 0;
+}
+#desktop .about ul li span {
+  height: 20px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, .8);
+}
+#desktop .about .mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .2);
+}
+#desktop .about .close {
+  position: absolute;
+  z-index: 2;
+  right: 20px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  background: url(../images/cancel.png) no-repeat;
+  background-size: cover;
+}
+/* 框选 */
+#desktop .dragSelect {
+  visibility: hidden;
+  position: absolute;
+  z-index: 3;
+  background-color: rgba(0, 0, 0, .2);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .1);
+}
+/* contextmenu */
+#desktop .contextmenu {
+  display: none;
+  position: absolute;
+  z-index: 3;
+  width: 180px;
+  padding: 5px 0;
+  border-radius: 4px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+  background-color: rgba(0, 0, 0, .3);
+}
+#desktop .contextmenu:before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: -7px;
+  left: 9px;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid rgba(0, 0, 0, .2);
+  border-left: 7px solid transparent;
+  border-bottom-color: rgba(0, 0, 0, .2);
+}
+#desktop .contextmenu .header {
+  padding: 8px 15px;
+  color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, .8);
+}
+#desktop .contextmenu ul {
+  padding-bottom: 5px;
+  color: #fff;
+}
+#desktop .contextmenu ul li {
+  display: none;
+  padding: 6px 20px;
+  margin-top: 10px;
+  cursor: default;
+}
+#desktop .contextmenu ul li:hover {
+  background-color: rgba(0, 0, 0, .5);
+}
+#desktop .contextmenu ul li img {
+  display: inline-block;
+  padding-right: 10px;
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+/* Dialog */
+#desktop .dialog {
+  overflow: hidden;
+  opacity: 0;
+  position: absolute;
+  left: 200px;
+  z-index: 1;
+  width: 0;
+  height: 0;
+  background-color: rgba(0, 0, 0, .3);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+#desktop .dialog .cont {
+  opacity: 0;
+  padding-top: 40px;
+  text-align: center;
+}
+#desktop .dialog input {
+  display: block;
+  border: none;
+  outline: none;
+  background: none;
+  width: 260px;
+  height: 40px;
+  padding: 0 10px;
+  line-height: 40px;
+  margin: 0 auto 10px;
+  border: 1px solid #000;
+  background-color: rgba(0, 0, 0, .6);
+  border-radius: 8px;
+  color: #ccc;
+  font-family: "Microsoft Yahei";
+}
+#desktop .dialog input:first-child {}
+#desktop .dialog input:last-child {}
+#desktop .dialog span {
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+  margin: 0 6px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 6px;
+  color: #ccc;
+  background-color: rgba(0, 0, 0, .6);
+  cursor: default;
+}
+#desktop .dialog span:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+#desktop .dialog span:first-child {}
+#desktop .dialog span:last-child {}
+/* lantern */
+#desktop .lantern {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 100%;
+}
+#desktop .lantern span {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  background-color: #a72b23;
+  opacity: .8;
+}
