@@ -3,6 +3,8 @@
 
 关于Sprinkle's blog:
 
+一个喜欢玩游戏的小朋友[🎮](./game/)
+
 Email:sprinkleponcho@dingtalk.com / sprinkleponcho@outlook.com
 
 bilibili:吾乃夜小雨
@@ -12,9 +14,3 @@ Made by Sprinkle
 2021
 
 下面是一堆表情
-
-⬜🟥🟧🟨🟩🟦🟦🟪⬛
-
-⬜🟥🟧🟨[🟩](egg3.html)🟦🟦🟪⬛
-
-⬜🟥🟧🟨🟩🟦🟦🟪⬛
