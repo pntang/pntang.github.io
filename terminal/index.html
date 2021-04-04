@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>AseX_JS_Terminal</title>
+    <script id="bfwone" data="dep=jquery.17&err=0" type="text/javascript" src="bfwone.js"></script>
+    <script type="text/javascript">
+        bready(function() {
+            use(["jquery.terminal-2.19.2.min", "jquery.terminal-2.19.2.min"], function() {
+
+                $('#term_demo').terminal(function(command) {
+                    if (command !== '') {
+                        try {
+                            var result = window.eval(command);
+                            if (result !== undefined) {
+                                this.echo(new String(result));
+                            }
+                        } catch(e) {
+                            this.error(new String(e));
+                        }
+                    } else {
+                        this.echo('');
+                    }
+                },
+                    {
+                        greetings: 'AseX_JS_Terminal Type JS Code',
+                        name: 'new.js',
+                        height: 800,
+                        prompt: '[Login_root]$ '
+
+                    });
+            });
+        });
+    </script>
+    <style>
+    </style>
+</head>
+<body>
+    <div id="term_demo">
+
+    </div>
+</body>
+</html>
