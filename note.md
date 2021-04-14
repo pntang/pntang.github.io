@@ -4,8 +4,6 @@
 啊这……这是第几次整修博客了？
 ### 2021·3·23-Sprinkle
 我们整修完毕啦~
-### 2021·3·5-Sprinkle
-好无聊[💬](egg2.md)
 ### 2020·9·22-Aser Technology
 [AserOS官网](https://sprinklelive.github.io)
 ### 2020·9·15-Sprinkle
