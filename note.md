@@ -1,5 +1,7 @@
 # 便签
-| [首页](home.md) | [视频](video.html) | [文章](article.md) | [便签](note.md) | [关于](about.md) |
+| [首页](index.html) | [视频](https://space.bilibili.com/504151731) | [文章](article.md) | [便签](note.md) | [友链](link.md) | [关于](about.md) |
+### 2021·4·14-Sprinkle
+啊这……这是第几次整修博客了？
 ### 2021·3·23-Sprinkle
 我们整修完毕啦~
 ### 2021·3·5-Sprinkle
